@@ -18,5 +18,5 @@
 
  Разработчики:
  1. `main`, `controller` – Анастасия
- 2. `model` – Наталья,Екатерина Руппель, https://github.com/RuppelE/
+ 2. `model` – Наталья Горшанова https://github.com/NataliaG0r ,Екатерина Руппель, https://github.com/RuppelE/
  3. `view` – Гулян Андрей, https://github.com/rnd-fox/
