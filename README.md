@@ -17,6 +17,6 @@
  * модуль `model` – функции управления данными
 
  Разработчики:
- 1. `main`, `controller` – Анастасия
+ 1. `main`, `controller` – Анастасия Довыдович, https://github.com/Anastasia1988
  2. `model` – Наталья Горшанова https://github.com/NataliaG0r ,Екатерина Руппель, https://github.com/RuppelE/
- 3. `view` – Гулян Андрей, https://github.com/rnd-fox/
+ 3. `view` – Андрей Гулян, https://github.com/rnd-fox/
