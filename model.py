@@ -1,4 +1,5 @@
 import os.path
+import view
 # здесь описана модель телефонного справочника
 contacts = [{"name": "", "phone": ""}]
 
